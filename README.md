@@ -36,6 +36,13 @@ yarn add --dev prettier eslint-config-prettier eslint-plugin-prettier
 ],
 ```
 
+## Tip
+
+```bash
+npx tsc -w src/chapter-11/index.ts
+```
+
+
 
 ## Reference
 - [2023년 자바카페 공개스터디](https://festa.io/events/xdmcF8o9yY4CEDbAKPuxsY)
