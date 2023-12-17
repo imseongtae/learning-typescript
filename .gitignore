@@ -2,6 +2,7 @@
 
 # customized gitignore list
 docs/
+book/
 
 # Dependency directories
 node_modules/
