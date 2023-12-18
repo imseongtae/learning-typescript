@@ -48,4 +48,5 @@ npx tsc -w src/chapter-11/index.ts
 - [2023년 자바카페 공개스터디](https://festa.io/events/xdmcF8o9yY4CEDbAKPuxsY)
 - [Solution - Cannot redeclare block-scoped variable](https://www.totaltypescript.com/cannot-redeclare-block-scoped-variable)
   - [1-blue - Learning-TypeScript-2장](https://1-blue.github.io/posts/Learning-TypeScript-2%EC%9E%A5/)
+- [gitmoji cli](https://github.com/carloscuesta/gitmoji-cli)
 
