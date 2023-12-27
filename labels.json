@@ -1,0 +1,67 @@
+[
+  {
+    "name": "⚙ Setting",
+    "color": "e3dede",
+    "description": "개발 환경 관련"
+  },
+  {
+    "name": "✨ Feature",
+    "color": "a2eeef",
+    "description": "기능 개발"
+  },
+  {
+    "name": "⚡️ Improve",
+    "color": "40c4ff",
+    "description": "기능 및 성능 개선"
+  },
+  {
+    "name": "💄 UI",
+    "color": "fef2c0",
+    "description": "UI 및 스타일 관련"
+  },
+  {    
+    "name": "👽️ API",
+    "color": "d4c5f9",
+    "description": "API 관련"
+  },
+  {
+    "name": "🚀 Deploy",
+    "color": "c2e0c6",
+    "description": "배포 관련"
+  },  
+  {
+    "name": "🚑️ HotFix",
+    "color": "fa594a",
+    "description": "긴급 수정"
+  },
+  {
+    "name": "🐛 BugFix",
+    "color": "8cd842",
+    "description": "버그 수정"
+  },
+  {
+    "name": "💻 CrossBrowsing",
+    "color": "C5def5",
+    "description": "브라우저 호환성"
+  },
+  {
+    "name": "♻️ Refactor",
+    "color": "78e856",
+    "description": "코드 리팩토링"
+  },
+  {
+    "name": "✅ Test",
+    "color": "ccffc4",
+    "description": "테스트 추가/수정"
+  },
+  {
+    "name": "📃 Docs",
+    "color": "1d76db",
+    "description": "문서 작성/수정"
+  },
+  {
+    "name": "♿️ Accessibility",
+    "color": "facfcf",
+    "description": "웹접근성 관련"
+  }
+]
