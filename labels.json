@@ -19,6 +19,11 @@
     "color": "fef2c0",
     "description": "UI 및 스타일 관련"
   },
+  {
+    "name": "🚸 UX/Usability",
+    "color": "ffce49",
+    "description": "사용자 경험 및 사용성 개선"
+  },
   {    
     "name": "👽️ API",
     "color": "d4c5f9",
@@ -28,11 +33,11 @@
     "name": "🚀 Deploy",
     "color": "c2e0c6",
     "description": "배포 관련"
-  },  
+  },
   {
     "name": "🚑️ HotFix",
     "color": "fa594a",
-    "description": "긴급 수정"
+    "description": "긴급 수정 - 코드리뷰 생략"
   },
   {
     "name": "🐛 BugFix",
