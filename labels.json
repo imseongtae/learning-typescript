@@ -12,7 +12,7 @@
   {
     "name": "⚡️ Improve",
     "color": "40c4ff",
-    "description": "기능 및 성능 개선"
+    "description": "성능 개선"
   },
   {
     "name": "💄 UI",
@@ -24,7 +24,7 @@
     "color": "ffce49",
     "description": "사용자 경험 및 사용성 개선"
   },
-  {    
+  {
     "name": "👽️ API",
     "color": "d4c5f9",
     "description": "API 관련"
@@ -68,5 +68,20 @@
     "name": "♿️ Accessibility",
     "color": "facfcf",
     "description": "웹접근성 관련"
+  },
+  {
+    "name": "major",
+    "color": "d32f2f",
+    "description": "🔖 - 기존 버전과 호환되지 않게 api가 바뀐 것"
+  },
+  {
+    "name": "minor",
+    "color": "00695c",
+    "description": "🔖 - 기존 버전과 호환되면서 새로운 기능을 추가한 것"
+  },
+  {
+    "name": "patch",
+    "color": "00695c",
+    "description": "🔖 - 기존 버전과 호환되면서 버그를 수정한 것"
   }
 ]
