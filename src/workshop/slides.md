@@ -5,13 +5,12 @@ marp: true
 # TS Workshop - by haemil
 
 ### Table of contents
-- TSDoc
-- 선언 파일
-- Type vs Interface
-- Enum vs Object
-- 십억달러의 실수(null 검사 처리법)
-- 타입 내로잉
-- 함수오버로드
+- [TSDoc](#tsdoc)
+- [선언 파일](#선언-파일)
+- [Type vs Interface](#type-vs-interface)
+- [Enum vs Object](#enum-vs-object)
+- [십억달러의 실수(null 검사 처리법)](#십억달러의-실수null-검사-처리법)
+- [타입스크립트를 이해하기 위한 개념](#타입스크립트를-이해하기-위한-개념)
 
 ---
 
