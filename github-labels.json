@@ -1,87 +1,72 @@
 [
   {
     "name": "⚙ Setting",
-    "color": "e3dede",
+    "color": "#e3dede",
     "description": "개발 환경 관련"
   },
   {
     "name": "✨ Feature",
-    "color": "a2eeef",
+    "color": "#a2eeef",
     "description": "기능 개발"
   },
   {
     "name": "⚡️ Improve",
-    "color": "40c4ff",
+    "color": "#40c4ff",
     "description": "성능 개선"
   },
   {
     "name": "💄 UI",
-    "color": "fef2c0",
+    "color": "#fef2c0",
     "description": "UI 및 스타일 관련"
   },
   {
     "name": "🚸 UX/Usability",
-    "color": "ffce49",
+    "color": "#ffce49",
     "description": "사용자 경험 및 사용성 개선"
   },
   {
     "name": "👽️ API",
-    "color": "d4c5f9",
+    "color": "#d4c5f9",
     "description": "API 관련"
   },
   {
     "name": "🚀 Deploy",
-    "color": "c2e0c6",
+    "color": "#c2e0c6",
     "description": "배포 관련"
   },
   {
     "name": "🚑️ HotFix",
-    "color": "fa594a",
+    "color": "#fa594a",
     "description": "긴급 수정 - 코드리뷰 생략"
   },
   {
     "name": "🐛 BugFix",
-    "color": "8cd842",
+    "color": "#8cd842",
     "description": "버그 수정"
   },
   {
     "name": "💻 CrossBrowsing",
-    "color": "C5def5",
+    "color": "#C5def5",
     "description": "브라우저 호환성"
   },
   {
     "name": "♻️ Refactor",
-    "color": "78e856",
+    "color": "#78e856",
     "description": "코드 리팩토링"
   },
   {
     "name": "✅ Test",
-    "color": "ccffc4",
+    "color": "#ccffc4",
     "description": "테스트 추가/수정"
   },
   {
     "name": "📃 Docs",
-    "color": "1d76db",
+    "color": "#1d76db",
     "description": "문서 작성/수정"
   },
   {
     "name": "♿️ Accessibility",
-    "color": "facfcf",
+    "color": "#facfcf",
     "description": "웹접근성 관련"
-  },
-  {
-    "name": "major",
-    "color": "d32f2f",
-    "description": "기존 버전과 호환되지 않게 api가 바뀐 것"
-  },
-  {
-    "name": "minor",
-    "color": "00695c",
-    "description": "기존 버전과 호환되면서 새로운 기능을 추가한 것"
-  },
-  {
-    "name": "patch",
-    "color": "983eb7",
-    "description": "기존 버전과 호환되면서 버그를 수정한 것"
-  }
+  }  
 ]
